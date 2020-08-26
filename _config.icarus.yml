@@ -103,13 +103,13 @@ article:
     highlight:
         # Code highlight themes
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
+        theme: default
         # Show copy code button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show thumbnail image for every article
-    thumbnail: true
+    thumbnail: false
     # Whether to show estimated article reading time
     readtime: true
 # Search plugin configurations
