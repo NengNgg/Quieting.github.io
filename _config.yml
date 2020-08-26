@@ -1,13 +1,13 @@
-title: Hexo
+title: Yu Dan Blog
 subtitle: ''
 description: ''
-keywords: null
-author: John Doe
-language: en
-timezone: ''
-url: 'http://yoursite.com'
+keywords: [yudan, blog, golang, go]
+author: yu dan
+language: zh-CN
+timezone: 'Asia/Chongqing'
+url: 'https://quieting.github.io'
 root: /
-permalink: ':year/:month/:day/:title/'
+permalink: ':year/:month/:day-:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true

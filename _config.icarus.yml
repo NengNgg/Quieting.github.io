@@ -3,7 +3,8 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo:
+    text: YU DAN
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -73,11 +74,11 @@ head:
 navbar:
     # Naviagtion menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        首页: /
+        时间线: /archives
+        分类: /categories
+        标签: /tags
+        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -186,13 +187,13 @@ widgets:
         # Author title
         author_title: Your title
         # Author's current location
-        location: Your location
+        location: 中国/重庆
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
-        gravatar: 
+        gravatar: 852213533@qq.com
         # URL or path for the follow button
         follow_link: 'https://github.com/ppoffice'
         # Links to be shown on the bottom of the profile widget
